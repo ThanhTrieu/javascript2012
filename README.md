@@ -1,3 +1,4 @@
 - Cài đặt nodejs : https://nodejs.org/en/download/
 - cài đặt git: https://git-scm.com/
+- cd vào root project chạy lệnh : npm(yarn) install
 - chạy ứng dụng : node <path_filename>
